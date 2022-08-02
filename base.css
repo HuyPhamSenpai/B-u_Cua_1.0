@@ -1,0 +1,12 @@
+@charset "uft-8";
+:root{
+    --black-color: black;
+    --red-color: red;
+    --white-color: white;
+    --bg-color: #444444;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
